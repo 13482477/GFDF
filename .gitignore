@@ -7,7 +7,6 @@
 *.iml
 out
 gen
-vendor/
 /.idea/
-/vendor/
-!/vendor/vendor.json
+/vendor/github.com/
+/vendor/golang.org/
