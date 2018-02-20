@@ -1,0 +1,20 @@
+{
+  "name": "webapp",
+  "homepage": "https://github.com/13482477/GFDF",
+  "authors": [
+    "lizhiqiang <13482477@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "^2.3.5"
+  }
+}

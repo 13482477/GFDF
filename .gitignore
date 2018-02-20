@@ -10,3 +10,5 @@ gen
 /.idea/
 /vendor/github.com/
 /vendor/golang.org/
+/**/*.exe
+/webapp/bower_components/

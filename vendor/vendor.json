@@ -3,12 +3,28 @@
 	"ignore": "test",
 	"package": [
 		{
-			"checksumSHA1": "nV06rUq250Hsknpd8BbItczAVX8=",
+			"checksumSHA1": "0sh4FXicINLD/q5WM0qnXLan21g=",
+			"path": "github.com/dgrijalva/jwt-go",
+			"revision": "dbeaa9332f19a944acb5736b4456cfcc02140e29",
+			"revisionTime": "2017-10-19T21:57:19Z"
+		},
+		{
+			"checksumSHA1": "gW40fYr2KG0lh8BJ3YBVz7mw080=",
 			"path": "github.com/labstack/echo",
-			"revision": "1049c9613cd371b7ea8f219404c9a821734781ed",
-			"revisionTime": "2017-04-26T17:09:29Z",
-			"version": "v3.1",
-			"versionExact": "v3.1.0"
+			"revision": "7eec915044a15b70fbb5dd0225c819550b05d596",
+			"revisionTime": "2018-02-19T16:21:01Z"
+		},
+		{
+			"checksumSHA1": "d7xYkC3XTumYTWiJNJH3/Av+gmg=",
+			"path": "github.com/labstack/echo/middleware",
+			"revision": "7eec915044a15b70fbb5dd0225c819550b05d596",
+			"revisionTime": "2018-02-19T16:21:01Z"
+		},
+		{
+			"checksumSHA1": "8ulgQ4ebz69LsRQlpokdyTzByWE=",
+			"path": "github.com/labstack/gommon/bytes",
+			"revision": "8cfb9656c4bb30d295d461266a27ad494edaa4e7",
+			"revisionTime": "2018-02-11T02:14:05Z"
 		},
 		{
 			"checksumSHA1": "Yz8nRvgJR9qN9OORCUQKc4eHC7Q=",
@@ -19,6 +35,12 @@
 		{
 			"checksumSHA1": "TSGKEmOygv2KxrVtyOsesmGsPxc=",
 			"path": "github.com/labstack/gommon/log",
+			"revision": "8cfb9656c4bb30d295d461266a27ad494edaa4e7",
+			"revisionTime": "2018-02-11T02:14:05Z"
+		},
+		{
+			"checksumSHA1": "1nDjlsmotw5ceWB3SsnOJym1AMY=",
+			"path": "github.com/labstack/gommon/random",
 			"revision": "8cfb9656c4bb30d295d461266a27ad494edaa4e7",
 			"revisionTime": "2018-02-11T02:14:05Z"
 		},
@@ -47,14 +69,23 @@
 			"revisionTime": "2017-02-24T21:24:29Z"
 		},
 		{
-			"path": "golang.org/x/crypto/acme/autocert",
-			"revision": ""
+			"checksumSHA1": "CSMVjFF7FnylAUUKW1e/4r+VFXA=",
+			"path": "golang.org/x/crypto/acme",
+			"revision": "1875d0a70c90e57f11972aefd42276df65e895b9",
+			"revisionTime": "2018-01-27T19:02:20Z"
 		},
 		{
+			"checksumSHA1": "lBWiVnI+9tnYWuXnUiWljDy9dnc=",
+			"path": "golang.org/x/crypto/acme/autocert",
+			"revision": "1875d0a70c90e57f11972aefd42276df65e895b9",
+			"revisionTime": "2018-01-27T19:02:20Z"
+		},
+		{
+			"checksumSHA1": "osb18zDjd7/RMAMUuN3qP+w0ewE=",
 			"path": "golang.org/x/sys/unix",
-			"revision": ""
+			"revision": "37707fdb30a5b38865cfb95e5aab41707daec7fd",
+			"revisionTime": "2018-02-02T13:35:31Z"
 		}
 	],
 	"rootPath": "gfdf"
-
 }
